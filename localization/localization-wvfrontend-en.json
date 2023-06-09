@@ -8,5 +8,6 @@
     "eraseDocDialog": "Erase all annotations from entire content",
     "erasePageDialog": "Erase all annotations from this page",
     "allowProtectedDownload": "Download protected file",
-    "new.string": "Not used anywhere"
+    "new.string": "Not used anywhere",
+    "another.new.string": "unused"
 }
