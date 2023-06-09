@@ -1,1 +1,11 @@
-{}
+{
+    "signOut": "odhlasit",
+    "changeLanguage": "změnit jazyk",
+    "allowProtectedDownload": "stahni ochaněné pdf",
+    "downloadSourceFile": "stahni soubor",
+    "downloadToPrint": "stahni pdf",
+    "newDocumentVersion": "otevři novou verzi",
+    "clickHere": "cklikni zde",
+    "eraseDocDialog": "smaž vše",
+    "erasePageDialog": "smaž vše ze stránky"
+}
