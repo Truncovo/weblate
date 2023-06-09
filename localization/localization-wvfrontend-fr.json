@@ -1,11 +1,12 @@
 {
-  "downloadSourceFile": "FR - Download unprotected file",
-  "downloadToPrint": "FR - Download PDF for print",
-  "signOut": "FR - Sign out",
-  "newDocumentVersion": "FR - Open new version",
-  "clickHere": "FR - Click here",
-  "changeLanguage": "FR - Change language",
-  "eraseDocDialog":"FR - Erase all annotations from entire content",
-  "erasePageDialog": "FR - Erase all annotations from this page",
-  "allowProtectedDownload": "FR - Download protected file"
+    "downloadSourceFile": "FR - Download unprotected file",
+    "downloadToPrint": "FR - Download PDF for print",
+    "signOut": "FR - Sign out",
+    "newDocumentVersion": "FR - Open new version",
+    "clickHere": "FR - Click here",
+    "changeLanguage": "FR - Change language",
+    "eraseDocDialog": "FR - Erase all annotations from entire content",
+    "erasePageDialog": "FR - Erase all annotations from this page",
+    "allowProtectedDownload": "FR - Download protected file",
+    "new.string": "FRANCH NOT USED ANYWHERE"
 }
