@@ -1,11 +1,12 @@
 {
-  "downloadSourceFile": "Download unprotected file",
-  "downloadToPrint": "Download PDF for print",
-  "signOut": "Sign out",
-  "newDocumentVersion": "Open new version",
-  "clickHere": "Click here",
-  "changeLanguage": "Change language",
-  "eraseDocDialog":"Erase all annotations from entire content",
-  "erasePageDialog": "Erase all annotations from this page",
-  "allowProtectedDownload": "Download protected file"
+    "downloadSourceFile": "Download unprotected file",
+    "downloadToPrint": "Download PDF for print",
+    "signOut": "Sign out",
+    "newDocumentVersion": "Open new version",
+    "clickHere": "Click here",
+    "changeLanguage": "Change language",
+    "eraseDocDialog": "Erase all annotations from entire content",
+    "erasePageDialog": "Erase all annotations from this page",
+    "allowProtectedDownload": "Download protected file",
+    "new.string": "Not used anywhere"
 }
