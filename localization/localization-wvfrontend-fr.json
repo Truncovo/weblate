@@ -8,5 +8,6 @@
     "eraseDocDialog": "FR - Erase all annotations from entire content",
     "erasePageDialog": "FR - Erase all annotations from this page",
     "allowProtectedDownload": "FR - Download protected file",
-    "new.string": "FRANCH NOT USED ANYWHERE"
+    "new.string": "FRANCH NOT USED ANYWHERE",
+    "another.new.string": "FR unsused"
 }
